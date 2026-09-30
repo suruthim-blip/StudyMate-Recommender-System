@@ -1,0 +1,16 @@
+title,subject,difficulty,category,resource_type,description
+Python Basics,Python,Beginner,Programming,Video,Learn Python fundamentals and basic syntax
+Python Functions,Python,Beginner,Programming,Video,Learn functions parameters and return values
+Python OOP,Python,Intermediate,Programming,Article,Learn classes objects and inheritance
+Data Structures,Python,Intermediate,Programming,Video,Learn lists stacks queues and dictionaries
+Machine Learning Basics,Machine Learning,Beginner,Artificial Intelligence,Video,Introduction to machine learning concepts
+Linear Regression,Machine Learning,Intermediate,Artificial Intelligence,Article,Learn linear regression and prediction
+Classification Algorithms,Machine Learning,Intermediate,Artificial Intelligence,Video,Learn classification techniques
+Deep Learning Basics,Deep Learning,Advanced,Artificial Intelligence,Video,Introduction to neural networks and deep learning
+HTML Basics,Web Development,Beginner,Web,Video,Learn HTML tags and webpage structure
+CSS Basics,Web Development,Beginner,Web,Article,Learn CSS styling and layouts
+JavaScript Basics,Web Development,Intermediate,Web,Video,Learn JavaScript fundamentals
+Database Fundamentals,Database,Beginner,Database,Video,Learn database concepts and SQL basics
+SQL Queries,Database,Intermediate,Database,Article,Learn SQL queries and database operations
+Cloud Computing Basics,Cloud Computing,Beginner,Cloud,Video,Introduction to cloud computing
+Cyber Security Basics,Cyber Security,Beginner,Security,Video,Learn basic cyber security concepts
